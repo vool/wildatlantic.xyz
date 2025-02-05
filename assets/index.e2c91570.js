@@ -1,0 +1,1 @@
+import{a as e,b as o,o as t,e as s}from"./entry.ca8ec0fc.js";const c=""+globalThis.__publicAssetsURL("img/wax_logo.png"),n={},a=s("div",{class:"container"},[s("img",{src:c,alt:"WILD ATLANTIC XYZ"})],-1),_=[a];function r(i,l,p,d,m,f){return t(),o("main",null,_)}const g=e(n,[["render",r]]);export{g as default};

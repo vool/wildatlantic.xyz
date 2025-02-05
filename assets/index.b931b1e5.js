@@ -1,1 +1,0 @@
-import{a as n,b as o,o as t,e}from"./entry.72f09b66.js";const c={},s=e("div",null,[e("h1",null,"WILD ATLANTIC XYZ")],-1),a=[s];function r(_,l){return t(),o("main",null,a)}const i=n(c,[["render",r]]);export{i as default};
