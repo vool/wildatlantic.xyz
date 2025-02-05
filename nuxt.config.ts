@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   app: {
-    baseURL: '/wildatlantic.xyz/',
+    baseURL: '/',
     buildAssetsDir: 'assets'
   }
 })
