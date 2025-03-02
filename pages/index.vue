@@ -32,7 +32,7 @@ useHead({
     <p>6:30 PM</p>
   </div>
 
-  <div class="text-left p-4 text-wax-green">
+  <div class="text-left p-4">
     <p><b>Kerry County Library</b></p>
     <p>Moyderwell</p>
   <p>Tralee</p>
