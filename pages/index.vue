@@ -14,24 +14,29 @@ useHead({
   <img src="/img/wax_logo.png" alt="WILD ATLANTIC XYZ" >
  </NuxtLink>
 </div>
-<div id="intro" class="md:h-screen h-[50vh] bg-wax-green text-wax-grey flex justify-center items-center">
+<div id="intro" class="md:h-screen h-[50vh] bg-wax-green flex text-wax-grey justify-center items-center">
   <NuxtLink
      href="#launch"
    >
-   <div class="w-[60vw] text-xl md:text-4xl lg:text-5xl text-center " >
-   <i>An alternative guide to the <b>Wild Atlantic Way</b>, from Wild Atlantic <b>Apartments</b> to Wild Atlantic <b>Yoga</b> and everything in between.</i>
+   <div class="w-[60vw] text-xl md:text-4xl lg:text-5xl/16 text-center ">
+   <i>An alternative guide to the Wild Atlantic Way, from <span class="text-wax-blue">Wild Atlantic Apartments</span> to <span class="text-wax-blue">Wild Atlantic Yoga</span> and everything in between.</i>
  </div>
  <!-- via Wild Atlantic Things -->
 
 </Nuxtlink>
 </div>
 
-<div id="launch" class=" h-[50vh]  bg-wax-blue text-wax-grey flex justify-center items-center text-3xl">
-  6:30 PM<br>
-  1st April, 2025<br>
-  Kerry County Library<br>
-  Tralee<br>
-  IE<br>
+<div id="launch" class=" h-[50vh]  bg-wax-blue text-wax-grey flex justify-center items-center md:text-3xl text-xl">
+  <div class="text-right p-4 border-r-4 border-wax-green">
+    <p class="md:text-6xl8 text-4xl/14">1st April</p>
+    <p>6:30 PM</p>
+  </div>
+
+  <div class="text-left p-4 text-wax-green">
+    <p><b>Kerry County Library</b></p>
+    <p>Moyderwell</p>
+  <p>Tralee</p>
+</div>
 </div>
 
     <div id="launch" class=" h-[40vh] bg-wax-grey text-wax-green flex justify-center items-center text-3xl">
