@@ -28,7 +28,7 @@ useHead({
 
 <div id="launch" class=" h-[50vh]  bg-wax-blue text-wax-grey flex justify-center items-center md:text-3xl text-xl">
   <div class="text-right p-4 border-r-4 border-wax-green">
-    <p class="md:text-6xl8 text-4xl/14">1st April</p>
+    <p class="md:text-6xl8 text-4xl/14">1st May</p>
     <p>6:30 PM</p>
   </div>
 
