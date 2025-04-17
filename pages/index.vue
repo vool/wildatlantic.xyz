@@ -11,7 +11,7 @@ useHead({
   <NuxtLink
      href="#intro"
    >
-  <img src="/img/wax_logo.png" alt="WILD ATLANTIC XYZ" >
+  <img src="/images/wax_logo.png" alt="WILD ATLANTIC XYZ" >
  </NuxtLink>
 </div>
 <div id="intro" class="md:h-screen h-[50vh] bg-wax-green flex text-wax-grey justify-center items-center">
