@@ -1,0 +1,1 @@
+import{q as n,v as r,s as l,c,o as f,r as i,a7 as p}from"./20kgCzlg.js";const u=n({__name:"layers",props:{fixedWidth:{type:Boolean,default:!1}},setup(a){const t=a,{familyPrefix:s}=r,o=l(()=>{const e=[`${s}-layers`];return t.fixedWidth&&e.push(`${s}-fw`),e});return(e,d)=>(f(),c("div",{class:p(o.value)},[i(e.$slots,"default")],2))}});export{u as default};
