@@ -1,0 +1,1 @@
+import{d as n,H as l,c as r,j as c,s as f,x as i,ae as p}from"./DpFQt2UZ.js";const u=n({__name:"layers",props:{fixedWidth:{type:Boolean,default:!1}},setup(a){const t=a,{familyPrefix:s}=l,o=r(()=>{const e=[`${s}-layers`];return t.fixedWidth&&e.push(`${s}-fw`),e});return(e,d)=>(f(),c("div",{class:p(o.value)},[i(e.$slots,"default")],2))}});export{u as default};
