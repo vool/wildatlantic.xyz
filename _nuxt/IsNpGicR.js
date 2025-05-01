@@ -1,1 +1,0 @@
-import{_ as s,j as t,s as o,k as c,x as n}from"./DpFQt2UZ.js";const a={},r={class:"m-4"},l={class:"text-4xl bg-white text-wax-green p-2 xinline-block"};function _(e,i){return o(),t("section",r,[c("h1",l,[n(e.$slots,"default")])])}const x=s(a,[["render",_]]);export{x as default};
